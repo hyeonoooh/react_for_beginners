@@ -1,1 +1,1 @@
-# react_for_beginers
+# react_for_beginners
